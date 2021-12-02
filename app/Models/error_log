@@ -1,0 +1,4 @@
+[26-Sep-2020 10:34:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/koraw797/public_html/4med.in/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/koraw797/public_html/4med.in/app/Models/User.php on line 10
